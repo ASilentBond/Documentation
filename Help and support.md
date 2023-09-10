@@ -47,7 +47,9 @@ To install [Your Game Name], please follow these steps:
 - Your game is now ready to play! Enjoy the gaming experience.
 
 If you encounter any issues during installation or have questions, please refer to our troubleshooting guide or contact our support team at [support@yourgame.com](mailto:support@yourgame.com) for assistance.
+
 ---
+
 # What are the system requirements?
 
 To run [Your Game Name] smoothly on your computer, make sure your system meets the following requirements:
