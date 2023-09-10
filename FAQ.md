@@ -1,8 +1,8 @@
-# A Silent Bond FAQ's
+# A Silent Bond Help Guide
 
 Welcome to the support and documentation for A Silent Bond! Here, you'll find answers to common questions and solutions to issues you might encounter while playing the game.
 
-## Frequently Asked Questions
+# Common Questions
 
 - [How do I install the game?](#how-do-i-install-the-game)
 - [What are the system requirements?](#what-are-the-system-requirements)
@@ -22,7 +22,7 @@ Welcome to the support and documentation for A Silent Bond! Here, you'll find an
 -  [Are there any known bugs or issues with the current game version?](#are-there-any-known-bugs-or-issues-with-the-current-game-version) 
 
 
-## Answers 
+# Answers 
 
 # How do I install the game?
 
@@ -360,4 +360,4 @@ Yes, "A Silent Bond" is available on various mobile devices, including smartphon
 
 As of the current game version, we continuously work to provide the best gaming experience for our players. However, like any complex software, there may be occasional bugs or issues that arise. Our development team actively monitors and addresses reported problems.
 
-To ensure a smooth gaming experience, we recommend keeping your game updated to the latest version. If you encounter any issues while playing "A Silent Bond," please don't hesitate to [contact our support team](contact.md). They will assist you in resolving any problems and provide information on the latest updates and bug fixes.
+To ensure a smooth gaming experience, we recommend keeping your game updated to the latest version. If you encounter any issues while playing "A Silent Bond," please don't hesitate to [contact our support team](#how-can-i-contact-support). They will assist you in resolving any problems and provide information on the latest updates and bug fixes.
