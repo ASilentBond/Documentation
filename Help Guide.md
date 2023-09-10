@@ -419,3 +419,8 @@ We value your feedback and welcome your suggestions to help us improve [Your Gam
 6. **Beta Testing:** If you're interested in being part of our beta testing program, please sign up [here](link-to-beta). Beta testers play a crucial role in shaping the future of the game.
 
 We value your input and will carefully consider all feedback and feature suggestions. Together, we can make the game even better!
+
+---
+
+
+<a href="#a-silent-bond-help-guide">Click Here</a> to go back to the top
