@@ -47,3 +47,29 @@ To install [Your Game Name], please follow these steps:
 - Your game is now ready to play! Enjoy the gaming experience.
 
 If you encounter any issues during installation or have questions, please refer to our troubleshooting guide or contact our support team at [support@yourgame.com](mailto:support@yourgame.com) for assistance.
+---
+# What are the system requirements?
+
+To run [Your Game Name] smoothly on your computer, make sure your system meets the following requirements:
+
+**Minimum System Requirements:**
+
+- **Operating System:** Windows 10 (64-bit)
+- **Processor:** Intel Core i5-2400 | AMD FX-6100
+- **Memory:** 8 GB RAM
+- **Graphics:** NVIDIA GTX 670 | AMD R9 270 (2 GB VRAM)
+- **DirectX:** Version 11
+- **Storage:** 50 GB available space
+
+**Recommended System Requirements:**
+
+- **Operating System:** Windows 10 (64-bit)
+- **Processor:** Intel Core i7-4770 | AMD Ryzen 5 1600X
+- **Memory:** 16 GB RAM
+- **Graphics:** NVIDIA GTX 1070 | AMD Vega 56 (8 GB VRAM)
+- **DirectX:** Version 11
+- **Storage:** 50 GB available space
+
+Please ensure that your system meets or exceeds the minimum requirements for an optimal gaming experience. Keep your graphics drivers up to date for the best performance.
+
+If you have any specific questions or encounter technical issues related to system requirements, feel free to reach out to our support team at [support@yourgame.com](mailto:support@yourgame.com).
