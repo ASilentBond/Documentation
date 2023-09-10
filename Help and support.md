@@ -167,3 +167,31 @@ Graphical glitches can disrupt the gaming experience, but we're here to help you
 8. **Contact Support:** If none of the above steps resolves the graphical glitches, please don't hesitate to [contact our support team](#how-can-i-contact-support). Provide as much detail as possible about the glitches, including when and where they occur in the game.
 
 Our support team will assist you in diagnosing and resolving the issue, ensuring you can enjoy the game without graphical disruptions.
+
+---
+
+# My Controller Isn't Working
+
+If your controller is not functioning correctly with the game, follow these troubleshooting steps to identify and resolve the issue:
+
+1. **Check Controller Connections:** Make sure your controller is properly connected to your computer or gaming console. Reconnect the controller's cable or ensure that it's paired correctly via Bluetooth.
+
+2. **Restart the Game:** Sometimes, a simple restart of the game can resolve controller issues. Close the game entirely and relaunch it to see if the controller starts working.
+
+3. **Update Controller Drivers:** Ensure that your controller's drivers are up to date. Visit the manufacturer's website or use device manager to check for driver updates.
+
+4. **Verify Controller Compatibility:** Confirm that your controller is officially supported by the game. Some games have specific controller requirements, and using an unsupported controller may cause issues.
+
+5. **Check Controller Settings:** Access the in-game controller settings to verify that the correct input device is selected. Ensure that the controller is recognized by the game.
+
+6. **Test the Controller on Other Games:** To determine if the issue is specific to the game, try using your controller with other games or applications. If it works elsewhere, the problem might be with the game.
+
+7. **Reboot Your System:** Occasionally, system issues can affect controller functionality. Restart your computer or console to clear any potential conflicts.
+
+8. **Update System Software:** Ensure that your gaming console or PC has the latest system software updates installed. Sometimes, outdated software can cause controller problems.
+
+9. **Check for Physical Damage:** Examine your controller for physical damage, such as loose or damaged cables, worn-out buttons, or analog stick drift. Address any physical issues as needed.
+
+10. **Contact Support:** If none of the above steps resolve the controller issue, please don't hesitate to [contact our support team](#how-can-i-contact-support). Provide details about the type of controller you're using and the specific problems you're encountering.
+
+Our support team will work with you to identify and resolve the controller problem, ensuring you can enjoy the game with your preferred input device.
