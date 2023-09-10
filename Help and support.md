@@ -116,7 +116,7 @@ That's it! You're now ready to enjoy A Silent Bond from the beginning. Have fun 
 
 # How can I save my progress?
 
-In [Your Game Name], your progress is automatically saved thanks to our convenient autosave feature. You don't need to worry about manually saving your game; our system takes care of it for you!
+In A Silent Bond, your progress is automatically saved thanks to our convenient autosave feature. You don't need to worry about manually saving your game; our system takes care of it for you!
 
 As you play through the game and achieve milestones, complete levels, or reach significant points, your progress is continuously saved. This means you can exit the game at any time, and when you return, you'll pick up right where you left off.
 
