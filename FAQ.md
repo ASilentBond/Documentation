@@ -306,7 +306,7 @@ Stay tuned to our Telegram channel and official announcements for the latest upd
 
 # How do I change my in-game username?
 
-**Answer:** To change your in-game username, follow these steps:
+To change your in-game username, follow these steps:
 
 1. Log in to your account within the game.
 
@@ -324,7 +324,7 @@ Keep in mind that some games may have restrictions or limitations on username ch
 
 # What should I do if I forgot my password?
 
-**Answer:** If you've forgotten your password, don't worry; you can reset it easily by following these steps:
+If you've forgotten your password, don't worry; you can reset it easily by following these steps:
 
 1. On the game's login screen, look for a "Forgot Password?" or "Reset Password" option.
 
