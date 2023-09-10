@@ -17,7 +17,7 @@ Welcome to the support and documentation for A Silent Bond! Here, you'll find an
 - [How can I report a cheater?](#how-can-i-report-a-cheater)
 -  [How Can I Get Premium Avatars for Free?](#how-can-i-get-premium-avatars-for-free)
 -  [How do I change my in-game username?](#how-do-i-change-my-in-game-username)
--  [What should I do if I forgot my password?](what-should-i-do-if-i-forgot-my-password) 
+-  [What should I do if I forgot my password?](#what-should-i-do-if-i-forgot-my-password) 
 
 
 ## Answers 
