@@ -111,3 +111,13 @@ Starting a new game in [Your Game Name] is a straightforward process. Follow the
 5. **Begin Your Adventure:** Confirm your choice, and the game will start a new session, allowing you to embark on a fresh adventure.
 
 That's it! You're now ready to enjoy A Silent Bond from the beginning. Have fun exploring the game world and completing quests.
+
+---
+
+# How can I save my progress?
+
+In [Your Game Name], your progress is automatically saved thanks to our convenient autosave feature. You don't need to worry about manually saving your game; our system takes care of it for you!
+
+As you play through the game and achieve milestones, complete levels, or reach significant points, your progress is continuously saved. This means you can exit the game at any time, and when you return, you'll pick up right where you left off.
+
+Enjoy a seamless gaming experience with [Your Game Name] knowing that your progress is always safe and up to date. Dive back into the action and continue your adventure!
