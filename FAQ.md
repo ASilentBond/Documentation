@@ -18,7 +18,8 @@ Welcome to the support and documentation for A Silent Bond! Here, you'll find an
 -  [How Can I Get Premium Avatars for Free?](#how-can-i-get-premium-avatars-for-free)
 -  [How do I change my in-game username?](#how-do-i-change-my-in-game-username)
 -  [What should I do if I forgot my password?](#what-should-i-do-if-i-forgot-my-password)
--  [Is the game available on mobile devices?](#is-the-game-available-on-mobile-devices) 
+-  [Is the game available on mobile devices?](#is-the-game-available-on-mobile-devices)
+-  [Are there any known bugs or issues with the current game version?](#are-there-any-known-bugs-or-issues-with-the-current-game-version) 
 
 
 ## Answers 
@@ -352,3 +353,11 @@ If you're still having trouble resetting your password, don't hesitate to [conta
 # Is the game available on mobile devices?
 
 Yes, "A Silent Bond" is available on various mobile devices, including smartphones and tablets. You can download and enjoy the game on both Android and iOS platforms. Simply visit the respective app stores (Google Play Store for Android and Apple App Store for iOS), search for "A Silent Bond," and follow the installation instructions to start playing on your mobile device.
+
+---
+
+# Are there any known bugs or issues with the current game version?
+
+As of the current game version, we continuously work to provide the best gaming experience for our players. However, like any complex software, there may be occasional bugs or issues that arise. Our development team actively monitors and addresses reported problems.
+
+To ensure a smooth gaming experience, we recommend keeping your game updated to the latest version. If you encounter any issues while playing "A Silent Bond," please don't hesitate to [contact our support team](contact.md). They will assist you in resolving any problems and provide information on the latest updates and bug fixes.
