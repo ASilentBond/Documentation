@@ -15,7 +15,7 @@ Welcome to the support and documentation for A Silent Bond! Here, you'll find an
 - [How do I join a multiplayer game?](#how-do-i-join-a-multiplayer-game)
 - [I can't connect to the game server](#i-cant-connect-to-the-game-server)
 - [How can I report a cheater?](#how-can-i-report-a-cheater)
-- [How do I customize my character?](#how-do-i-customize-my-character) 
+-  [How Can I Get Premium Avatars for Free?](#how-can-i-get-premium-avatars-for-free) 
 
 ## Answers 
 
@@ -270,3 +270,31 @@ We take cheating and unfair play seriously in **A Silent Bond** to ensure a fair
 Remember that game developers and support teams take cheating reports seriously and will investigate each case thoroughly. Reporting cheaters helps maintain a fair and enjoyable gaming environment for all players.
 
 If you encounter any challenges or have further questions regarding reporting cheaters, don't hesitate to [contact our support team](contact.md). We appreciate your commitment to ensuring a positive gaming experience for everyone in the **A Silent Bond** community.
+
+---
+
+# How Can I Get Premium Avatars for Free?
+
+At A Silent Bond, we occasionally offer opportunities for our players to obtain premium avatars without spending real money. Here's how you can get premium avatars for free:
+
+1. **Participate in Giveaways:**
+   - Keep an eye on our official Telegram channel and social media platforms for announcements of avatar giveaway events. We often organize contests or events where you can win premium avatars as rewards.
+
+2. **Join In-Game Events:**
+   - Participate in special in-game events and challenges. Completing event objectives or achieving specific milestones may grant you access to exclusive premium avatars.
+
+3. **Refer Friends:**
+   - Some of our events may include referral rewards. Invite friends to join A Silent Bond, and if they reach certain in-game goals, you both could receive premium avatars as a bonus.
+
+4. **Stay Active in the Community:**
+   - Engage with our community by participating in discussions, sharing feedback, or contributing content. We occasionally reward active community members with premium avatars as a token of appreciation.
+
+5. **Keep an Eye on Updates:**
+   - New updates and patches may introduce free premium avatars as part of the content. Make sure to update your game regularly to access these rewards.
+
+6. **Limited-Time Offers:**
+   - Occasionally, we may offer time-limited promotions that provide premium avatars for free or at a significantly reduced price. Keep an eye on these special offers.
+
+Remember that premium avatars offered for free are typically available for a limited time. Be sure to act quickly when you see an opportunity to grab your favorite avatars without spending real money.
+
+Stay tuned to our Telegram channel and official announcements for the latest updates on premium avatar giveaways and events. We hope you enjoy collecting and customizing your avatars in A Silent Bond!
