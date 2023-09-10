@@ -121,3 +121,25 @@ In A Silent Bond, your progress is automatically saved thanks to our convenient 
 As you play through the game and achieve milestones, complete levels, or reach significant points, your progress is continuously saved. This means you can exit the game at any time, and when you return, you'll pick up right where you left off.
 
 Enjoy a seamless gaming experience knowing that your progress is always safe and up to date. Dive back into the action and continue your adventure!
+
+---
+
+# The game crashes on startup
+
+Experiencing a crash when trying to start your game can be frustrating, but don't worry; we're here to help you troubleshoot the issue. Follow these steps to resolve the problem:
+
+1. **Check System Requirements:** Ensure that your computer meets the minimum system requirements for [Your Game Name]. Sometimes, crashes can occur if your hardware doesn't meet the game's demands. Refer to the [system requirements](#what-are-the-system-requirements) to verify compatibility.
+
+2. **Update Graphics Drivers:** Outdated or incompatible graphics drivers can lead to crashes. Visit your graphics card manufacturer's website and download the latest drivers for your GPU.
+
+3. **Disable Overlays:** Some third-party software, like Discord or screen recording applications, can conflict with the game and cause crashes. Try disabling any overlays or background applications while running the game.
+
+4. **Verify Game Files:** If you're using a platform like Steam, verify the integrity of the game files. Corrupted files can lead to crashes. Right-click the game in your library, go to Properties, and find the option to verify files.
+
+5. **Update the Game:** Ensure you have the latest version of the game. Developers often release updates to fix bugs and improve stability.
+
+6. **Check for Crash Reports:** If the game generates crash reports, review them for error details. These reports can provide insights into what's causing the issue.
+
+7. **Contact Support:** If the problem persists after trying the above steps, please don't hesitate to [contact our support team](#how-can-i-contact-support). Provide as much detail as possible about the crash, including any error messages you've encountered.
+
+Our team will work with you to diagnose and resolve the issue so you can enjoy A Silent Bond without any interruptions.
