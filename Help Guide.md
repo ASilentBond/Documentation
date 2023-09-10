@@ -3,6 +3,7 @@
 Welcome to the support and documentation for A Silent Bond! Here, you'll find answers to common questions and solutions to issues you might encounter while playing the game.
 
 # Common Questions
+This are some common questions asked by many players and you may also find your issue related to this answered questions. Click on the questions that is relatable to your issue and find your answer. 
 
 - [How do I install the game?](#how-do-i-install-the-game)
 - [What are the system requirements?](#what-are-the-system-requirements)
