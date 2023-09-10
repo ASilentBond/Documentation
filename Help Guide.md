@@ -20,7 +20,8 @@ Welcome to the support and documentation for A Silent Bond! Here, you'll find an
 -  [What should I do if I forgot my password?](#what-should-i-do-if-i-forgot-my-password)
 -  [Is the game available on mobile devices?](#is-the-game-available-on-mobile-devices)
 -  [Are there any known bugs or issues with the current game version?](#are-there-any-known-bugs-or-issues-with-the-current-game-version)
--  [How do I change the language settings in the game?](#how-do-i-change-the-language-settings-in-the-game) 
+-  [How do I change the language settings in the game?](#how-do-i-change-the-language-settings-in-the-game)
+-  [Can I play the game offline?](#can-i-play-the-game-offline) 
 
 
 # Answers 
@@ -386,3 +387,13 @@ To ensure a smooth gaming experience, we recommend keeping your game updated to 
 If you encounter any difficulties while changing the language settings or if your preferred language is not available, please [contact our support team](#how-can-i-contact-support). They will assist you in resolving any language-related issues.
 
 Remember that offering various language options is part of our commitment to providing an inclusive gaming experience for all players.
+
+---
+
+# Can I play the game offline?
+
+Yes, you can play "A Silent Bond" offline once the game is installed on your device. Enjoy the single-player experience without the need for an internet connection.
+
+However, please note that while playing offline, you won't need an internet connection for regular gameplay. Keep in mind that creating an account for the game may require a proper internet connection. Once your account is created, you can enjoy offline gameplay at your convenience.
+
+If you have specific questions about offline gameplay or encounter any issues, please [contact our support team](#how-can-i-contact-support). We're here to assist you and ensure you have a great gaming experience.
