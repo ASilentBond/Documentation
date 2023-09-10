@@ -195,3 +195,13 @@ If your controller is not functioning correctly with the game, follow these trou
 10. **Contact Support:** If none of the above steps resolve the controller issue, please don't hesitate to [contact our support team](#how-can-i-contact-support). Provide details about the type of controller you're using and the specific problems you're encountering.
 
 Our support team will work with you to identify and resolve the controller problem, ensuring you can enjoy the game with your preferred input device.
+
+---
+
+# How Do I Join a Multiplayer Game?
+
+Currently, **A Silent Bond** does not support multiplayer gameplay. However, we understand that multiplayer features can greatly enhance the gaming experience, and we have plans to introduce multiplayer functionality in future updates.
+
+We're continuously working on improving the game and adding new features based on player feedback and demands. While multiplayer is not available at the moment, we're committed to providing you with a comprehensive gaming experience in the near future.
+
+Stay tuned for updates and announcements regarding the introduction of multiplayer gameplay. We appreciate your interest in ****, and we're excited to bring you new ways to enjoy the game with friends and fellow players. Keep an eye on our official channels and release notes for the latest information on upcoming features and enhancements.
