@@ -16,7 +16,8 @@ Welcome to the support and documentation for A Silent Bond! Here, you'll find an
 - [I can't connect to the game server](#i-cant-connect-to-the-game-server)
 - [How can I report a cheater?](#how-can-i-report-a-cheater)
 -  [How Can I Get Premium Avatars for Free?](#how-can-i-get-premium-avatars-for-free)
--  [How do I change my in-game username?](#how-do-i-change-my-in-game-username) 
+-  [How do I change my in-game username?](#how-do-i-change-my-in-game-username)
+-  [What should I do if I forgot my password?](what-should-i-do-if-i-forgot-my-password) 
 
 
 ## Answers 
@@ -318,3 +319,29 @@ Stay tuned to our Telegram channel and official announcements for the latest upd
 5. Confirm the change, usually by clicking a "Save" or "Confirm" button.
 
 Keep in mind that some games may have restrictions or limitations on username changes, such as a cooldown period between changes or specific rules for acceptable usernames. Be sure to review the game's policies and guidelines regarding username changes.
+
+---
+
+# What should I do if I forgot my password?
+
+**Answer:** If you've forgotten your password, don't worry; you can reset it easily by following these steps:
+
+1. On the game's login screen, look for a "Forgot Password?" or "Reset Password" option.
+
+2. Click on this option, and it will usually take you to a password reset page.
+
+3. Provide the email address associated with your game account.
+
+4. Check your email inbox for a password reset link. It should arrive shortly.
+
+5. Click on the reset link in your email. This will take you to a page where you can set a new password for your account.
+
+6. Create a strong and secure password. It's essential to use a combination of letters, numbers, and special characters for security.
+
+7. Confirm the new password and save your changes.
+
+8. You should now be able to log in to your game account with the new password.
+
+If you encounter any difficulties during this process, consider checking your email's spam or junk folder for the reset link. Additionally, ensure that you have access to the email address associated with your game account.
+
+If you're still having trouble resetting your password, don't hesitate to [contact our support team](contact.md). They'll be happy to assist you in recovering your account.
