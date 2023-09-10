@@ -120,4 +120,4 @@ In A Silent Bond, your progress is automatically saved thanks to our convenient 
 
 As you play through the game and achieve milestones, complete levels, or reach significant points, your progress is continuously saved. This means you can exit the game at any time, and when you return, you'll pick up right where you left off.
 
-Enjoy a seamless gaming experience with [Your Game Name] knowing that your progress is always safe and up to date. Dive back into the action and continue your adventure!
+Enjoy a seamless gaming experience knowing that your progress is always safe and up to date. Dive back into the action and continue your adventure!
