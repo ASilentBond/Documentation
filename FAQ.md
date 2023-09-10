@@ -19,7 +19,8 @@ Welcome to the support and documentation for A Silent Bond! Here, you'll find an
 -  [How do I change my in-game username?](#how-do-i-change-my-in-game-username)
 -  [What should I do if I forgot my password?](#what-should-i-do-if-i-forgot-my-password)
 -  [Is the game available on mobile devices?](#is-the-game-available-on-mobile-devices)
--  [Are there any known bugs or issues with the current game version?](#are-there-any-known-bugs-or-issues-with-the-current-game-version) 
+-  [Are there any known bugs or issues with the current game version?](#are-there-any-known-bugs-or-issues-with-the-current-game-version)
+-  [How do I change the language settings in the game?](#how-do-i-change-the-language-settings-in-the-game) 
 
 
 # Answers 
@@ -361,3 +362,27 @@ Yes, "A Silent Bond" is available on various mobile devices, including smartphon
 As of the current game version, we continuously work to provide the best gaming experience for our players. However, like any complex software, there may be occasional bugs or issues that arise. Our development team actively monitors and addresses reported problems.
 
 To ensure a smooth gaming experience, we recommend keeping your game updated to the latest version. If you encounter any issues while playing "A Silent Bond," please don't hesitate to [contact our support team](#how-can-i-contact-support). They will assist you in resolving any problems and provide information on the latest updates and bug fixes.
+
+---
+
+# How do I change the language settings in the game?
+
+"A Silent Bond" offers multiple language options to cater to a global audience. To change the language settings in the game, follow these steps:
+
+1. **Main Menu:** Start the game and navigate to the main menu.
+
+2. **Settings:** Look for a "Settings" or "Options" menu within the game. This is where you can customize various game settings, including language.
+
+3. **Language Selection:** In the settings menu, you should find a section related to language preferences. Click or tap on it.
+
+4. **Choose Your Language:** A list of available languages should appear. Select your preferred language from the list.
+
+5. **Confirm:** Some games may ask you to confirm your language choice. Follow the on-screen instructions to confirm your selection.
+
+6. **Restart (If Required):** In some cases, changing the language setting may require you to restart the game. If prompted, exit to the main menu and restart the game.
+
+7. **Enjoy in Your Preferred Language:** Once the language change is complete, you can enjoy "A Silent Bond" in your selected language.
+
+If you encounter any difficulties while changing the language settings or if your preferred language is not available, please [contact our support team](#how-can-i-contact-support). They will assist you in resolving any language-related issues.
+
+Remember that offering various language options is part of our commitment to providing an inclusive gaming experience for all players.
