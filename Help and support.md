@@ -242,7 +242,7 @@ We apologize for any inconvenience you may be experiencing and appreciate your p
 
 ---
 
-# How Can I Report a Cheater in A Silent Bond?
+# How Can I Report a Cheater? 
 
 We take cheating and unfair play seriously in **A Silent Bond** to ensure a fair and enjoyable gaming experience for all players. If you suspect someone of cheating or exploiting the game's mechanics, here's how you can report them:
 
