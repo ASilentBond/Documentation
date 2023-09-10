@@ -15,7 +15,9 @@ Welcome to the support and documentation for A Silent Bond! Here, you'll find an
 - [How do I join a multiplayer game?](#how-do-i-join-a-multiplayer-game)
 - [I can't connect to the game server](#i-cant-connect-to-the-game-server)
 - [How can I report a cheater?](#how-can-i-report-a-cheater)
--  [How Can I Get Premium Avatars for Free?](#how-can-i-get-premium-avatars-for-free) 
+-  [How Can I Get Premium Avatars for Free?](#how-can-i-get-premium-avatars-for-free)
+-  [How do I change my in-game username?](#how-do-i-change-my-in-game-username) 
+
 
 ## Answers 
 
@@ -298,3 +300,21 @@ At A Silent Bond, we occasionally offer opportunities for our players to obtain 
 Remember that premium avatars offered for free are typically available for a limited time. Be sure to act quickly when you see an opportunity to grab your favorite avatars without spending real money.
 
 Stay tuned to our Telegram channel and official announcements for the latest updates on premium avatar giveaways and events. We hope you enjoy collecting and customizing your avatars in A Silent Bond!
+
+---
+
+# How do I change my in-game username?
+
+**Answer:** To change your in-game username, follow these steps:
+
+1. Log in to your account within the game.
+
+2. Navigate to the settings or profile section. Look for an option that allows you to edit or change your username.
+
+3. Click on the "Edit" button next to your current username.
+
+4. Enter your new desired username in the provided field.
+
+5. Confirm the change, usually by clicking a "Save" or "Confirm" button.
+
+Keep in mind that some games may have restrictions or limitations on username changes, such as a cooldown period between changes or specific rules for acceptable usernames. Be sure to review the game's policies and guidelines regarding username changes.
