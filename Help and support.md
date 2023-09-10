@@ -93,3 +93,21 @@ You can reach our support team through the following methods:
 - **Feedback and Bug Reporting:** If you encounter any bugs or have suggestions to improve the game, you can report them on our [GitHub issues page](https://github.com/yourusername/yourgame/issues). We appreciate your feedback and contributions to make the gaming experience even better.
 
 Our support team is dedicated to providing timely assistance and ensuring you have a seamless gaming experience. Don't hesitate to reach out if you need any help or have feedback to share.
+
+---
+
+# How do I start a new game?
+
+Starting a new game in [Your Game Name] is a straightforward process. Follow these simple steps to begin your adventure:
+
+1. **Launch the Game:** Open [Your Game Name] from your preferred platform or launcher.
+
+2. **Main Menu:** You will be greeted by the main menu of the game.
+
+3. **New Game Option:** Look for the "New Game" or "Start New Game" option on the main menu. It's typically located prominently.
+
+4. **Select Difficulty (if applicable):** Depending on the game, you may be prompted to choose a difficulty level. Make your selection.
+
+5. **Begin Your Adventure:** Confirm your choice, and the game will start a new session, allowing you to embark on a fresh adventure.
+
+That's it! You're now ready to enjoy A Silent Bond from the beginning. Have fun exploring the game world and completing quests.
